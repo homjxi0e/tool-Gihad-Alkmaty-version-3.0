@@ -197,7 +197,7 @@ echo ""
 read target
 echo ""
 cd /usr/bin
-crunch 1 100 $target 
+crunch 1 100 $target -o /root/Desktop/ 
 echo ""
 read -p "ENTER"
 /Gihad3.0.sh
